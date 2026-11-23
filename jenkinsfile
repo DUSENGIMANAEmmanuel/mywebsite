@@ -42,7 +42,7 @@ pipeline {
         }
 
         failure {
-            echo 'ERROR: Website pipeline failed!'
+            echo 'ERROR: Website pipeline failed!!!!!'
         }
     }
 }
